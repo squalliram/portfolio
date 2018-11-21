@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Iram's Portfolio
 
 You can use the [editor on GitHub](https://github.com/squalliram/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
